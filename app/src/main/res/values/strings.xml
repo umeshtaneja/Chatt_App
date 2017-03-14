@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chatt</string>
+    <string name="auth_failed">one</string>
+    <string name="sign_out">Sign out</string>
+</resources>
